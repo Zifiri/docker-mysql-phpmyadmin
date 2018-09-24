@@ -2,11 +2,11 @@
 
 # Docker Run
 docker-compose up -d
-#Docker PS
+# Docker PS
 docker ps
 # URL
 http://localhost:8001/
-#phpMyAdmin
+# phpMyAdmin
 http://localhost:8000/
 
 
